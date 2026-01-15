@@ -4,7 +4,7 @@
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-    Name = "Rafael Hub - Anti-Detect Mode",
+    Name = "Zeron HUB - Anti-Detect Mode",
     LoadingTitle = "Carregando com cuidado...",
     LoadingSubtitle = "by Grok | 2026",
     ConfigurationSaving = {Enabled = true, FolderName = "RafaelAntiDetect", FileName = "settings"},
@@ -291,9 +291,9 @@ AimbotTab:CreateSlider({
 })
 
 Rayfield:Notify({
-    Title = "Rafael Hub Anti-Detect",
+    Title = "Zeron Hub Anti-Detect",
     Content = "Carregado! Use com cuidado e alt account.",
     Duration = 6
 })
 
-print("Rafael Hub carregado | Hitbox + Aimbot separado")
+print("Zeron Hub carregado | Hitbox + Aimbot separado")
